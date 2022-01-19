@@ -7,3 +7,4 @@ function fakeBin(x) {
 }
 
 console.log(fakeBin('1234567890'))
+console.log(typeof '' + typeof 1)

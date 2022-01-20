@@ -9,7 +9,7 @@ function updateLight(current) {
     index += 1;
   }
 
- return  trafficLights[index];
+ return trafficLights[index];
 }
 
 console.log( updateLight('green'));
